@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ "$1" == "" ]; then
-  echo "Program should specified csv file (boris !)"
+  echo "Program should specified csv file"
   exit 2
 fi
 
